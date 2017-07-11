@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Víctor Aguilar | Desarrollador de Negocios Digitales</title>
+		<title>Víctor Aguilar | Digital Marketer</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -20,7 +20,7 @@
 						<li><a href="#one">¿Qué hago?</a></li>
 						<li><a href="#two">¿Quién soy?</a></li>
 						<li><a href="#work">Mi trabajo</a></li>
-						<li><a href="#contact">Contacto</a></li>
+						
 					</ul>
 				</nav>
 			</header>
@@ -29,9 +29,9 @@
 			<section id="intro" class="main style1 dark fullscreen">
 				<div class="content">
 					<header>
-						<h2>Hey.</h2>
+						<hgroup><h2>Hey.</h2></hgroup>
 					</header>
-					<p>Bienvenido a mi sitio web soy <strong>Víctor Aguilar</strong> basicamente me dedico a compartir ideas para ayudar  a negocios y personas en el mundo online a cumplir sus objetivos. </p>
+					<p>Bienvenido a mi sitio web soy <strong>Víctor Aguilar</strong> básicamente me dedico a compartir ideas y estrategias que implemento para obtener éxito profesional digital. </p>
 					<footer>
 						<a href="#one" class="button style2 down">More</a>
 					</footer>
@@ -44,7 +44,7 @@
 					<header>
 						<h2>¿Qué hago?</h2>
 					</header>
-					<p>Disfruto mi pasión por la tecnología dedicandome a crear estrategías de marketing digital a fin de posicionar tus proyectos de manera productiva en Internet para que cumplas con tus metas.</p>
+					<p>Disfruto mi pasión por la tecnología, escribo, leo y ayudo a otras personas a impulsar su marca personal o su marca empresarial.</p>
 				</div>
 				<a href="#two" class="button style2 down anchored">Next</a>
 			</section>
@@ -55,7 +55,7 @@
 					<header>
 						<h2>¿Quién soy?</h2>
 					</header>
-					<p>Soy TSU en Tecnologías de la Información y Comunicación con estudios en marketing digital, emprendimiento avanzado, programación y desarrollo web. Esto me permite ofrecerte las herramientas adecuadas para el desarrollo de tu negocio.</p>
+					<p>Soy TSU en Tecnologías de la Información y Comunicación con estudios en marketing digital, emprendimiento avanzado, programación y ventas.</p>
 				</div>
 				<a href="#work" class="button style2 down anchored">Next</a>
 			</section>
@@ -65,7 +65,7 @@
 				<div class="content">
 					<header>
 						<h2>Mi trabajo</h2>
-						<p>He colaborado para distinstas empresas a nivel nacional, regional y personas cuyo objetivo era incursionar en el mundo digital de manera profesional impactando a una mayor cantidad de personas ampliando así el impacto de su marca. </p>
+						<p>Actualmente soy programador, autor y digital marketer freelance además colaboro para una plataforma web creadora de contenidos especializados en marketing digital y tecnología también soy fundador de Avispa Digital un creativo tecnológico que busca acercar a la tecnología a toda la gente que por miedo aún no domina las herramientas tecnológicas de la actualidad. </p>
 					</header>
 
 					<!-- Gallery  -->
@@ -93,25 +93,7 @@
 				</div>
 			</section>
 
-		<!-- Contact -->
-			<section id="contact" class="main style3 secondary">
-				<div class="content">
-					<header>
-						<h2>Contactate conmigo.</h2>
-						<p>Me interesa contactar con personas que quieran ir más allá de los limites para conseguir el éxito. </p>
-					</header>
-					<div class="box">
-						<form method="post" action="#">
-							<div class="field half first"><input type="text" name="name" placeholder="Nombre" /></div>
-							<div class="field half"><input type="email" name="email" placeholder="Email" /></div>
-							<div class="field"><textarea name="message" placeholder="Mensaje" rows="6"></textarea></div>
-							<ul class="actions">
-								<li><input type="submit" value="Envíar mensaje" /></li>
-							</ul>
-						</form>
-					</div>
-				</div>
-			</section>
+		
 
 		<!-- Footer -->
 			<footer id="footer">
