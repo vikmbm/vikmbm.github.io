@@ -16,7 +16,7 @@
 				<h1>Víctor Aguilar</h1>
 				<nav>
 					<ul>
-						<li><a href="#intro">Intro</a></li>
+						<li><a href="#intro">Inicio</a></li>
 						<li><a href="#one">¿Qué hago?</a></li>
 						<li><a href="#two">¿Quién soy?</a></li>
 						<li><a href="#work">Mi trabajo</a></li>
@@ -31,7 +31,7 @@
 					<header>
 						<hgroup><h2>Hey.</h2></hgroup>
 					</header>
-					<p>Bienvenido a mi sitio web soy <strong>Víctor Aguilar</strong> básicamente me dedico a compartir ideas y estrategias que implemento para obtener éxito profesional digital. </p>
+					<p>Bienvenido a mi portfolio web soy <strong>Víctor Aguilar</strong> me dedico a compartir ideas y estrategias que implemento para obtener éxito profesional digital. </p>
 					<footer>
 						<a href="#one" class="button style2 down">More</a>
 					</footer>
@@ -65,28 +65,28 @@
 				<div class="content">
 					<header>
 						<h2>Mi trabajo</h2>
-						<p>Actualmente soy programador, autor y digital marketer freelance además colaboro para una plataforma web creadora de contenidos especializados en marketing digital y tecnología también soy fundador de Avispa Digital un creativo tecnológico que busca acercar a la tecnología a toda la gente que por miedo aún no domina las herramientas tecnológicas de la actualidad. </p>
+						<p>Soy digital marketer, autor y programador freelance, colaboro para una plataforma web internacional creadora de contenidos especializados en marketing digital y tecnología. Soy fundador de Avispa Digital un creativo tecnológico que busca acercar a la tecnología a toda la gente que por miedo aún no domina las herramientas tecnológicas de la actualidad. </p>
 					</header>
 
 					<!-- Gallery  -->
 						<div class="gallery">
 							<article class="from-left">
-								<a href="images/ojodeltrap2.png" class="image fit"><img src="images/ojodeltrap2.png" title="Sitio web para el ojo del trap" alt="" /></a>
+								<a href="http://www.ojodeltrap.com/" class="image fit"><img src="images/ojodeltrap2.png" title="Sitio web para el ojo del trap" alt="" /></a>
 							</article>
 							<article class="from-right">
-								<a href="images/avispa.jpg" class="image fit"><img src="images/avispa.jpg" title="Creativo Tecnológico Avispa Digital" alt="" /></a>
+								<a href="https://www.facebook.com/avispamx/" class="image fit"><img src="images/avispa.jpg" title="Creativo Tecnológico Avispa Digital" alt="" /></a>
 							</article>
 							<article class="from-left">
 								<a href="images/postreselli.jpg" class="image fit"><img src="images/postreselli.jpg" title="Repostería profesional casera online" alt="" /></a>
 							</article>
 							<article class="from-right">
-								<a href="images/marcapersonal.jpg" class="image fit"><img src="images/marcapersonal.jpg" title="Manejo de marca profesional" alt="" /></a>
+								<a href="https://www.facebook.com/vikmbm2/" class="image fit"><img src="images/marcapersonal.jpg" title="Manejo de marca profesional" alt="" /></a>
 							</article>
 							<article class="from-left">
-								<a href="images/creathink.jpg" class="image fit"><img src="images/creathink.jpg" title="Sitio web para Creathink A.c." alt="" /></a>
+								<a href="https://www.facebook.com/P.runMX/" class="image fit"><img src="images/creathink.jpg" title="Sitio web para Creathink A.c." alt="" /></a>
 							</article>
 							<article class="from-right">
-								<a href="images/prun.jpg" class="image fit"><img src="images/prun.jpg" title="CTO para P.run Jogging Canicross" alt="" /></a>
+								<a href="https://www.facebook.com/P.runMX/" class="image fit"><img src="images/prun.jpg" title="CTO para P.run Jogging Canicross" alt="" /></a>
 							</article>
 						</div>
 
@@ -104,6 +104,7 @@
 						<li><a href="https://www.facebook.com/vikmbm2" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 						<li><a href="https://www.instagram.com/vikmbm" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 						<li><a href="https://www.linkedin.com/in/victorhugo-marketingdigital/" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						<li><a href="https://medium.com/@vIIctor.aguilar" class="icon fa-medium"><span class="label">Medium</span></a></li>
 					</ul>
 
 				<!-- Menu -->
